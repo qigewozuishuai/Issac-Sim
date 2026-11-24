@@ -1,0 +1,8 @@
+该搬运工作站使用isaac sim6.0来制作；
+所有文件放在主目录pick_place_project下再执行；
+pick_place_project.usd是场景资产，pick_place_done.py是控制逻辑。main是程序入口。
+解压进入该资产文件夹并且以isaac sim6.0的python.sh即可单机执行。比如本人路径isaac sim6.0的路径为~/isaac-sim-standalone-6.0.0-linux-x86_64/python.sh main.py
+
+
+
+
